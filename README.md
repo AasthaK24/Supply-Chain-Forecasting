@@ -18,7 +18,7 @@ The goal is to forecast future product demand to help supply chain teams optimiz
 - **Excel/CSV** (Data input/output)  
 
 ---
-## Data Pipeline
+## 🔄 Data Pipeline
 
 - **ingest_data.py** → loads raw data (train.csv).
 
@@ -28,7 +28,7 @@ The goal is to forecast future product demand to help supply chain teams optimiz
 
 - **run_pipeline.py** → orchestrates all steps → saves forecast.csv.
 
-# Run the pipeline with:
+### Run the pipeline with:
 ```bash
 cd pipeline
 python run_pipeline.py
@@ -52,7 +52,7 @@ supply-chain-forecasting/
 │   ├── screenshots/
 │── README.md
 ```
-## Power BI Dashboard
+## 📊 Power BI Dashboard
 The dashboard provides business-friendly insights:
 
 🔹 KPIs
@@ -71,7 +71,7 @@ The dashboard provides business-friendly insights:
 
 ![Dashboard Preview](dashboard/image.png)
 
-## Business Value
+## 🎯 Business Value
 
 - This system helps supply chain teams optimize inventory by forecasting demand:
 
