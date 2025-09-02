@@ -28,7 +28,7 @@ The goal is to forecast future product demand to help supply chain teams optimiz
 
 - **run_pipeline.py** → orchestrates all steps → saves forecast.csv.
 
-# Run the pipeline with:
+## Run the pipeline with:
 ```bash
 cd pipeline
 python run_pipeline.py
