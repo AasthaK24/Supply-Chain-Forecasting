@@ -34,6 +34,7 @@ cd pipeline
 python run_pipeline.py
 ```
 **Completed Pipeline** 
+
 <img width="813" height="198" alt="Screenshot 2025-09-02 194414" src="https://github.com/user-attachments/assets/2d4d76fb-c22c-4676-8ae7-11213aa686b1" />
 
 ## 📂 Project Structure  
